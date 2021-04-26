@@ -1,1 +1,1 @@
-body{background:red}
+.site{display:flex;min-height:100vh;flex-direction:column}.site-content{flex:1}body{background:red;margin:0;padding:0}header{background:blue}main{background:green}footer{background:yellow}
